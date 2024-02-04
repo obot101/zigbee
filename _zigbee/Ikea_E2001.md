@@ -14,3 +14,5 @@ link:
 EAN: 
   - 004.680.45
 ---
+### [Pairing](https://www.ikea.com/us/en/manuals/styrbar-remote-control-smart-stainless-steel__AA-2254328-1-2.pdf):
+Press the pairing button under the battery cover 4 times within 5 seconds.
